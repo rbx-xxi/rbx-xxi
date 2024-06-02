@@ -1,5 +1,5 @@
  <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="help/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
 <!---
 rbx-xxi/rbx-xxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
