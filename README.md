@@ -1,5 +1,5 @@
 ## Hi there 👋
-currently learning: reverse engineering & memory
+currently learning: reverse engineering
 
 ## About me 😎
 
