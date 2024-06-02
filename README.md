@@ -1,3 +1,6 @@
+Hi there 👋
+currently learning: reverse engineering & memory
+
  <a href="#">
     <img src="languages/js.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>  
